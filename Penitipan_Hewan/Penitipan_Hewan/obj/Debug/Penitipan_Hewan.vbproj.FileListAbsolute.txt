@@ -1,0 +1,71 @@
+D:\Faiz Gasaly Azhari...IK.2\Pembelian_Barang\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe.config
+D:\Faiz Gasaly Azhari...IK.2\Pembelian_Barang\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Login.resources
+D:\Faiz Gasaly Azhari...IK.2\Pembelian_Barang\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Resources.resources
+D:\Faiz Gasaly Azhari...IK.2\Pembelian_Barang\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbproj.GenerateResource.Cache
+D:\Faiz Gasaly Azhari...IK.2\Pembelian_Barang\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Jenis_Paket.resources
+D:\Faiz Gasaly Azhari...IK.2\Pembelian_Barang\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Konsumen.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe.config
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Jenis_Paket.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Login.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Resources.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbproj.GenerateResource.Cache
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.pdb
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.xml
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.FMenu.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.exe
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.xml
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.pdb
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pengguna.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Kosumen.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pemantauan_Header.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe.config
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.exe
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.xml
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.pdb
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.pdb
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.xml
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.FMenu.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Jenis_Paket.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Kosumen.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Login.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Resources.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pengguna.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbproj.GenerateResource.Cache
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pemantauan.resources
+F:\Penitipan_Hewan\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pendaftaran.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe.config
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.exe
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.xml
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.pdb
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbprojResolveAssemblyReference.cache
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.FMenu.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Jenis_Paket.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Kosumen.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Login.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Resources.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pemantauan.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pendaftaran.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pengguna.resources
+E:\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbproj.GenerateResource.Cache
+E:\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe
+E:\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.pdb
+E:\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.xml
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe.config
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.xml
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.pdb
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.exe
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.pdb
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\bin\Debug\Penitipan_Hewan.xml
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbprojResolveAssemblyReference.cache
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.FMenu.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Jenis_Paket.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Kosumen.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Login.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Resources.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pemantauan.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pendaftaran.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.Pengguna.resources
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.vbproj.GenerateResource.Cache
+D:\Faiz Gasaly Azhari...IK.2\Semester 3\Penitipan_Hewan\Penitipan_Hewan\obj\Debug\Penitipan_Hewan.exe
